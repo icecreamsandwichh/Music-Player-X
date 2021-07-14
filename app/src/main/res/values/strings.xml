@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicX</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourite_btn">Favourite</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="back_btn">back_btn</string>
+    <string name="fav_btn">Favourite Disabled</string>
+    <string name="control_buttons">control_btn</string>
+    <string name="share_button">Share Button</string>
+    <string name="timer_button">Timer Button</string>
+    <string name="repeat_button">Repeat Button</string>
+    <string name="equalizer_button">equalizer button</string>
+    <string name="add_playlist_btn">Add Playlist</string>
+</resources>

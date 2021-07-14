@@ -1,0 +1,16 @@
+<com.google.android.material.appbar.AppBarLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/topAppBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="@string/app_name"
+        app:menu="@menu/actionbar_menu"
+        app:navigationIcon="@drawable/menu_black_24dp"
+        style="@style/Widget.MaterialComponents.AppBarLayout.Surface"
+        />
+
+</com.google.android.material.appbar.AppBarLayout>
